@@ -1,5 +1,6 @@
 """
-loren ipsum
+This is the main class of the project, it describes what is a orbiting body, that
+in our case is a star.
 """
 
 import math
